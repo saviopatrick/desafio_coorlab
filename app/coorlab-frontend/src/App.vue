@@ -1,7 +1,7 @@
 <script setup>
-  import HelloWorld from "./components/hello-world.vue";
+  import Sidebar from "./components/Sidebar.vue";
 </script>
 
 <template>
-  <HelloWorld />
+  <Sidebar />
 </template>
